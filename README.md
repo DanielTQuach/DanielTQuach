@@ -7,11 +7,10 @@ I build projects end to end focusing on providing everyday tools for people.
 - █████████ - next up
 ### Past Projects
 - PazeTracker.com
-- ...
+- Check out my other repos!
 ### Fun facts
-- ⌨️ I've been into mechanical keyboards since 2022
+- ⌨️ I've been into mechanical keyboards since 2022 [📺 YT](https://www.youtube.com/@deeneon223)
   - Main driver: Axol Studio Foundation Beta
-  - [My keyboard channel](https://www.youtube.com/@deeneon223)
 - 💻 CAD/3D Printing
   - Designing SFF cases using Fusion360
   - Currently using Bambu Lab P1S
