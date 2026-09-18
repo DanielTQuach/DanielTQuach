@@ -9,8 +9,7 @@ I build projects end to end focusing on providing everyday tools for people.
 
 ### Past Projects
 - PazeTracker.com
-- Orion
-- RepoScanner
+- ...
 
 ### Fun facts
 - ⌨️ I've been into mechanical keyboards since 2022
