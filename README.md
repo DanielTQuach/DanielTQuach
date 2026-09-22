@@ -1,17 +1,25 @@
-I'm Daniel, a full stack software engineer based in California.
-
-I build projects end to end focusing on providing everyday tools for people.
-### Current Projects
-- ResuMenu - in progress
-- █████████ - next up
-- █████████ - next up
-### Past Projects
-- PazeTracker.com
-- Check out my other repos!
-### Fun facts
-- ⌨️ I've been into mechanical keyboards since 2022 [📺 YT](https://www.youtube.com/@deeneon223)
-  - Main driver: Axol Studio Foundation Beta
-- 💻 CAD/3D Printing
-  - Designing SFF cases using Fusion360
-  - Currently using Bambu Lab P1S
+<table frame="none" rules="none" border="0" width="100%">
+  <tr style="border: none;">
+    
+```text
+I'm Daniel, a full stack software engineer based in California.                 ⡉⢍⠊⣥⠧⢋⡺⢭⡛⣿⡛⢿⡋⠍⠿⡻⢽⠀⡀⠢⡁⢾⢀⠃⠄⣟⢯⡻⣝⢯⠻⣭⢻⡹
+I build projects end to end focusing on providing everyday tools for people.    ⠈⢢⠝⣁⠲⣭⢳⡣⣗⡆⣌⣤⣬⣌⡀⣵⢦⢦⣤⣅⣰⢸⢀⠃⠄⡟⢮⠓⣩⠞⣝⡲⢧⡽
+Current Projects                                                                ⢘⡥⢛⡲⣱⡌⢧⡳⢞⡜⠣⢃⡈⣈⡌⠁⠉⠊⠡⡄⠌⣘⠢⣁⠖⡉⠆⡑⢰⠻⡼⣙⡗⢾
+- ResuMenu - in progress                                                        ⢢⠀⢁⠃⠓⢺⢫⠵⠋⠐⠀⠁⡀⠀⠀⠁⠀⠂⠁⡄⠈⡀⢃⠁⠂⠄⠁⠐⣈⠷⣩⠳⣜⢫
+- █████████ - next up                                                           ⡾⢧⡀⢈⠐⠀⣈⢐⠠⠀⠀⢀⡁⡠⢀⢤⡁⣠⢀⠀⠀⠀⠄⠈⠀⠀⢈⢹⣳⣛⣦⠿⣬⠧
+- █████████ - next up                                                           ⣿⡯⡵⢀⠠⠂⠄⢁⠐⣠⢜⡱⣚⡵⣫⢎⣗⢳⡊⠴⡈⠔⡈⠄⠀⢈⠠⣜⣿⣿⣗⡻⢴⢋
+                                                                                ⣷⣻⠁⢀⠀⢀⠀⢤⢋⢆⢣⡜⢡⠜⡡⢏⢬⣃⠹⣬⠱⢳⢴⣨⡔⡀⠑⡈⠐⣯⡜⣶⢢⣄
+Past Projects                                                                   ⢟⣛⢷⠢⡞⢩⠙⡦⢣⡚⡔⠪⠔⡹⢬⡉⠖⣌⠳⡤⣋⠔⡤⢉⠌⠁⡐⡰⣞⢷⡿⣾⣿⣾
+- PazeTracker.com                                                               ⠎⡹⣬⠃⡰⢠⢋⡜⢣⡙⢄⠋⠰⠁⠆⠽⡐⢸⡑⠦⣍⠚⠴⣉⢞⣱⢆⡱⣌⢧⢻⣿⣿⣿
+- Check out my other repos!                                                     ⣰⣽⣦⢏⢷⡩⠜⠜⠃⠥⠈⠠⠁⠈⢈⠐⠠⠁⠀⠀⠈⢩⠐⡉⢊⠝⣮⡑⢎⢎⠷⣾⢿⣿
+                                                                                ⣾⣿⢮⡋⢆⡱⢊⡄⠂⠀⢀⠠⠀⠂⠠⣘⠀⡐⠤⢀⠡⢂⠱⢨⢅⡎⠴⡹⢤⣊⠷⣭⣿⣿
+Fun facts                                                                       ⣿⢯⣯⠱⣊⠕⢣⠘⡌⠢⡄⡀⢂⢁⠢⠄⢢⣵⣊⡥⢂⢄⠃⢆⡚⣜⢣⡕⣣⠞⣽⣻⣿⣿
+- ⌨️ I've been into mechanical keyboards since 2022                             ⣿⢯⣯⠱⣊⠕⢣⠘⡌⠢⡄⡀⢂⢁⠢⠄⢢⣵⣊⡥⢂⢄⠃⢆⡚⣜⢣⡕⣣⠞⣽⣻⣿⣿
+  - Main driver: Axol Studio Foundation Beta                                    ⣻⣿⣾⢱⡡⢎⠰⢡⢘⣯⣶⣅⠒⠁⠘⠀⣿⣳⠿⣳⣗⡱⠎⡤⠱⣌⠳⣌⠷⣭⣟⣿⣿⣿
+- 💻 CAD/3D Printing                                                            ⣜⣷⣻⢳⡽⣞⢏⣟⡬⡖⡥⣩⠘⢎⠶⣡⠞⡴⢩⢌⣣⣈⠳⢴⡩⣟⡽⣯⣿⣽⣾⣟⡷⣿
+  - Designing SFF cases using Fusion                                            ⡼⠣⡭⡛⣼⢢⣻⣼⣳⣛⡶⣥⣋⡖⣜⡰⡜⣴⢫⣾⣖⣯⢟⣤⡕⠪⣿⣽⢷⣟⡾⣿⣽⣫
+  - Currently using Bambu Lab P1S                                               ⡰⢋⢐⡑⣎⢿⣳⢯⣟⣿⣿⣷⡽⣾⢽⣳⡟⣾⢯⣷⢿⣞⡿⡼⣭⢳⢮⡹⣻⣞⠷⣹⢶⡹
 - 🛹 I like skateboarding
+```
+  </tr>
+</table>
